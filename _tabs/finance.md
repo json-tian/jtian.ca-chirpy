@@ -14,9 +14,9 @@ Continuous learning in the field of quantitative finance and risk management.
 
 View the slide deck and investment summary report below:
 
-you can view [Slide Deck PDF](/assets/lifeworks/Slide-Deck.pdf) here.
+you can view the [Slide Deck PDF](/assets/lifeworks/Slide-Deck.pdf) here.
 
-you can [Investment Summary Report](/assets/lifeworks/Investment-Summary-Report.pdf) here.
+you can view the [Investment Summary Report](/assets/lifeworks/Investment-Summary-Report.pdf) here.
 
 Created a sell-side analysis on Lifeworks Inc. in the RCIF 2022 University of Toronto Small-cap Stock Pitch competition.
 
