@@ -10,7 +10,7 @@ Continuous learning in the field of quantitative finance and risk management.
 
 <h1>Projects</h1>
 
-## Lifeworks Inc. - Sell-side Analysis
+## Sell-side Analysis - Lifeworks Inc.
 
 View the slide deck and investment summary report below:
 
@@ -18,7 +18,7 @@ you can view [Slide Deck PDF](/assets/lifeworks/Slide-Deck.pdf) here.
 
 you can [Investment Summary Report](/assets/lifeworks/Investment-Summary-Report.pdf) here.
 
-Created a sell-side analysis on Lifeworks Inc. in the RCIF 2020 University of Toronto Small-cap Stock Pitch competition.
+Created a sell-side analysis on Lifeworks Inc. in the RCIF 2022 University of Toronto Small-cap Stock Pitch competition.
 
 Created DCF model, analysis of catalysts and risks, and financial statement projections in a team of three.
 

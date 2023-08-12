@@ -44,7 +44,7 @@ Interested in the intersection of technology and business, and how technology ca
 Merchants can design their single page ecommerce store. Anyone can start their own ecommerce store in minutes without writing a single line of code.
 
 
-Users can design their single page store by adding in their headline, style the background and font, add their products, and launch their store. Payment from customers will be automatically accepted through Apple Pay or Google Pay so payment setup is easy for the merchant and customers can checkout faster. Payments handled witrh Stripe.
+Users can design their single page store by adding in their headline, style the background and font, add their products, and launch their store. Payment is acceptd by Google Pay making checkouts qucik and easy. Payments are handled with Stripe.
 
 **Technologies: Ruby on Rails, React, Google Authentication, Stripe Payment, Digital Ocean for hosting, and Docker for containerization.**
 
