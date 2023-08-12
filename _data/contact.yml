@@ -3,12 +3,13 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fab fa-twitter"
-
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
+
+- type: shutterstock
+  icon: "fa fa-camera"
+  url: https://www.shutterstock.com/en/g/Jason+Tian?rid=395411751
 
 - type: rss
   icon: "fas fa-rss"
