@@ -6,49 +6,11 @@ order: 1
 
 Studied software engineering at the University of Toronto, and formerly interned at [Shopify](https://www.shopify.com/), [FGF Brands](https://fgfbrands.com/), and [CaseWare](https://www.caseware.com/). Currently looking for new grad opportunities in software engineering.
 
-**Area of expertise**: Full-stack web development, quantitative analysis, and financial technology.
-
 Interested in the intersection of technology and business, and how technology can be used to solve business problems.
 
 <hr>
 
 <h1>Projects</h1>
-
-## Link Commerce - Lead Developer
-
-<table>
-        <tr>
-            <td>
-                <img src="/assets/linkcommerce/linkcommerce1.webp"/>
-            </td>
-            <td>
-                <img src="/assets/linkcommerce/linkcommerce2.webp"/>
-            </td>
-            <td>
-                <img src="/assets/linkcommerce/linkcommerce3.webp"/>
-            </td>
-            <td>
-                <img src="/assets/linkcommerce/linkcommerce4.webp"/>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <img src="/assets/linkcommerce/linkcommerce5.webp"/>
-            </td>
-            <td>
-                <img src="/assets/linkcommerce/linkcommerce6.webp"/>
-            </td>
-        </tr>
-</table>
-
-Merchants can design their single page ecommerce store. Anyone can start their own ecommerce store in minutes without writing a single line of code.
-
-
-Users can design their single page store by adding in their headline, style the background and font, add their products, and launch their store. Payment is acceptd by Google Pay making checkouts qucik and easy. Payments are handled with Stripe.
-
-**Technologies: Ruby on Rails, React, Google Authentication, Stripe Payment, Digital Ocean for hosting, and Docker for containerization.**
-
-<hr>
 
 ## Speed Insights - Solo Project
 

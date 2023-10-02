@@ -21,7 +21,7 @@ timezone:
 title: Jason Tian # the main title
 
 tagline1: "Software Engineer" # it will display as the sub-title
-tagline2: "Aspiring Analyst" # it will display as the sub-title
+tagline2: "Analyst" # it will display as the sub-title
 tagline3: "Photographer for Fun" # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
